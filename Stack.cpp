@@ -1,3 +1,4 @@
+/* Stack Implementation File */
 #include "Stack.h"
 
 Stack::Stack() {
